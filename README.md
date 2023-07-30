@@ -21,7 +21,7 @@ Durante il corso del progetto, è possibile acquisire diverse competenze, tra cu
 - Gestione degli errori: Il progetto richiede un'ampia fase di testing per gestire varie possibili situazioni di errore in modo appropriato.
 - Gestire comandi parziali: Per poter elaborare un comando, è necessario prima aggregare i pacchetti ricevuti per ricostruirlo ed elaborarlo.
 
-Il progetto l'ho sviluppato con @mttmrz e abbiamo scelto konversation come client di riferimento. Il programma funziona interamente con nc, è molto meno intuitivo visto che i messaggi al server devono essere mandati con il formato giusto, in caso di errore saranno ignorati.
+Il progetto l'ho sviluppato con [@mttmrz](https://github.com/mttmrz) e abbiamo scelto konversation come client di riferimento. Il programma funziona interamente con nc, è molto meno intuitivo visto che i messaggi al server devono essere mandati con il formato giusto, in caso di errore saranno ignorati.
 
 -------------------
 
@@ -46,4 +46,4 @@ Throughout the course of the project, you can acquire various skills, including:
 - Error Handling: Extensive testing is necessary to handle various possible error situations appropriately.
 - Handling Partial Commands: To process a command, it is necessary to first aggregate the received packets to reconstruct and process it.
 
-I developed this project with @mttmrz, and we chose Konversation as the reference client. The program works entirely with nc, but it is less intuitive since messages to the server must be sent in the correct format; otherwise, they will be ignored.
+I developed this project with [@mttmrz](https://github.com/mttmrz), and we chose Konversation as the reference client. The program works entirely with nc, but it is less intuitive since messages to the server must be sent in the correct format; otherwise, they will be ignored.
